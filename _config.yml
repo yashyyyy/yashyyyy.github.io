@@ -1,12 +1,12 @@
-title:  yash
+title:  Yash
 markdown: kramdown
 # url: ""
 # baseurl: "/jekyll-theme-material-you"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Utkarsh Dixit
+  email: utkarsh0636@gmail.com
 
 plugins:
   - jemoji
